@@ -1,0 +1,9 @@
+{
+    "name": "Mi3-Constructions-Web",
+    "scripts": {
+      "dev": "nuxt",
+      "build": "nuxt build",
+      "generate": "nuxt generate",
+      "start": "nuxt start"
+    }
+  }

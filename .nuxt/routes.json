@@ -1,0 +1,23 @@
+[
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "D:\\\\Sites\\\\Mi3-Constructions-Web\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_521182a7"
+  },
+  {
+    "name": "header",
+    "path": "/header",
+    "component": "D:\\\\Sites\\\\Mi3-Constructions-Web\\\\pages\\\\header.vue",
+    "chunkName": "pages/header",
+    "_name": "_ac27de54"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Sites\\\\Mi3-Constructions-Web\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_138c0e19"
+  }
+]

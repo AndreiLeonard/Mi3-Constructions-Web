@@ -7,6 +7,13 @@
     "_name": "_521182a7"
   },
   {
+    "name": "galeries_photos",
+    "path": "/galeries_photos",
+    "component": "D:\\\\Sites\\\\Mi3-Constructions-Web\\\\pages\\\\galeries_photos.vue",
+    "chunkName": "pages/galeries_photos",
+    "_name": "_fd0e52a2"
+  },
+  {
     "name": "header",
     "path": "/header",
     "component": "D:\\\\Sites\\\\Mi3-Constructions-Web\\\\pages\\\\header.vue",

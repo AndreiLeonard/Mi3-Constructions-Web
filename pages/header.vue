@@ -31,4 +31,23 @@
     transform: rotate(13deg);
     transition: transform .15s ease-in;
   }
+  .photos {
+    margin: 25px 25px 25px 25px;
+    width: 650px;
+    height: auto;
+    padding: 25px 25px 25px 25px;
+  }
+  .photo-photo-item {
+    background-color: white;
+    border-radius: 35px;
+    margin: 40px 19px 10px 48px;
+  }
+  .photo-item {
+    border-radius: 35px;
+    background-color: #fffad0;
+  }
+  .photo-text-item {
+    margin-left: 204px;
+    margin-bottom: 27px;
+  }
 </style>
